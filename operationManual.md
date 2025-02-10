@@ -2,7 +2,7 @@
 
 ## Introduction
 
-![git操作通用流程](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2018/4/25/162fcc0987bf1c0a~tplv-t2oaga2asx-jj-mark:3024:0:0:0:q75.awebp#?w=1172&h=340&s=18854&e=png&a=1&b=acd8e5)
+![img](assets/162fcc0987bf1c0atplv-t2oaga2asx-jj-mark3024000q75.webp)
 
 - Workspace: 本地电脑存放项目文件的地方
 - Repository: 使用commit命令将index中的文件添加到本地仓库中
